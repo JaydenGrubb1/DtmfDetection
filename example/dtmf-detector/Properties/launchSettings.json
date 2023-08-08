@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dtmf-detector": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Users\\Jayden\\OneDrive\\2023 - Sem 2\\CAB401 - High Performance and Parallel Computing\\Workshop 3\\crowdNoise.ac3\""
+    }
+  }
+}
